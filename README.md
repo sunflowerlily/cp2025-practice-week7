@@ -19,8 +19,7 @@ cp2025-practice-week7/
 │   ├── 电偶极子电势与电场的计算与可视化实验报告.md
 │   ├── 图像平均实验报告.md
 │   └── 图像特征强调实验报告.md
-├── solutions/              # 参考答案
-│   ├── init .py
+├── solutions/              # 参考答案，请勿修改
 │   ├── electric_field_solution.py
 │   ├── image_average_solution.py
 │   ├── image_feature_emphasis_solution.py
