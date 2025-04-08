@@ -2,9 +2,10 @@
 
 本实验作业主要通过使用 SymPy 绘图功能，完成以下三个绘图任务：
 
-1. 使用 `sympy.plot` 绘制函数曲线：$\cos(\tan(\pi x))$
-2. 使用 `sympy.plot_implicit` 绘制隐函数曲线：$e^y + \frac{\cos x}{x} + y = 0$
+1. 使用 `sympy.plot` 绘制函数曲线： $\cos(\tan(\pi x))$
+2. 使用 `sympy.plot_implicit` 绘制隐函数曲线： $e^y + \frac{\cos x}{x} + y = 0$
 3. 使用 `sympy.plot3d_parametric_surface` 绘制参数曲面：
+
 $$
 \begin{cases}
 x = e^{-s}\cos t\\[6pt]
