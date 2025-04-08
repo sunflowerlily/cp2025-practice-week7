@@ -17,6 +17,6 @@ $$
 ---
 
 ### 📌 提交要求：
-填写好个人信息的 assignment.py 文件；
-完成实验报告（使用 report_template.md 模板撰写）；
+完成并提交 src/SymPy_plot.py 文件；
+完成实验报告（使用 results/SymPy绘图实验报告.md 模板撰写）；
 确保测试通过后再提交。
