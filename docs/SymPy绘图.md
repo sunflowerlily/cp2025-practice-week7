@@ -8,8 +8,8 @@
 
 $$
 \begin{cases}
-x = e^{-s}\cos t\\[6pt]
-y = e^{-s}\sin t\\[6pt]
+x = e^{-s}\cos t\\
+y = e^{-s}\sin t\\
 z = t
 \end{cases}
 \quad (0\le s \le 8,\quad 0 \le t \le 5\pi)
