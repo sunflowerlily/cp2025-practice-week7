@@ -18,6 +18,6 @@ $$
 ---
 
 ### 📌 提交要求：
-完成并提交 src/SymPy_plot.py 文件；
-完成实验报告（使用 results/SymPy绘图实验报告.md 模板撰写）；
-确保测试通过后再提交。
+1. 完成并提交 src/SymPy_plot.py 文件；
+2. 完成实验报告（使用 results/SymPy绘图实验报告.md 模板撰写）；
+3. 确保测试通过。
