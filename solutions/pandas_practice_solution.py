@@ -63,6 +63,8 @@ def save_processed_data(data):
 
 def main():
     """主函数，执行所有数据处理流程"""
+    creat_frame()
+
     # 1. 读取数据
     data = load_data()
     
